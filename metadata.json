@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Khanzada",
+  "description": "Premium Messaging \u0026 Secure Calling",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
